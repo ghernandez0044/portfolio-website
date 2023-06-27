@@ -31,6 +31,26 @@ a{
     font-weight: lighter;
 }
 
+label{
+    font-family: 'Merriweather', serif;
+    font-weight: lighter;
+}
+
+option{
+    font-family: 'Merriweather', serif;
+    font-weight: lighter;
+}
+
+select{
+    font-family: 'Merriweather', serif;
+    font-weight: lighter;
+}
+
+::placeholder{
+    font-family: 'Merriweather', serif;
+    font-weight: lighter;
+}
+
 .content-font2{
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -42,4 +62,8 @@ a{
 
 h3{
     font-family: 'Merriweather', serif;
+}
+
+.actions > li > input{
+    font-family: 'Josefin Sans', sans-serif;
 }
