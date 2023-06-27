@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500;700&family=Merriweather:wght@300;400;700&family=Roboto+Mono:ital,wght@0,400;0,700;1,300&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500;700&family=Merriweather:wght@300;400;700&family=Roboto+Mono:ital,wght@0,400;0,700;1,300&family=Rubik:wght@300&family=Vina+Sans&display=swap');
 
 .js{
     font-size: 64px;
@@ -16,12 +16,27 @@ h2{
     font-family: 'Josefin Sans', sans-serif;
 }
 
+h3{
+    font-size: 26px;
+    font-family: 'Josefin Sans', sans-serif;
+    /* font-family: 'Merriweather', serif; */
+}
+
 a{
     font-family: 'Josefin Sans', sans-serif;
 }
 
 .content-font{
     font-family: 'Merriweather', serif;
+    font-weight: lighter;
+}
+
+.content-font2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.content-font3{
+    font-family: 'Rubik', sans-serif;
     font-weight: lighter;
 }
 
